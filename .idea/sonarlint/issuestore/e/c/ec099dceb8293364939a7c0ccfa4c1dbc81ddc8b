@@ -1,0 +1,23 @@
+
+j
+java:S1192$"MDefine a constant instead of duplicating this literal "MainActivity" 7 times.(É©ÕÈ8£æÄŞ·1
+J
+java:S16040"(Make this anonymous inner class a lambda(Üà¨¯üÿÿÿÿ8£æÄŞ·1
+E
+java:S16047"(Make this anonymous inner class a lambda(éäó‚8¤æÄŞ·1
+J
+java:S1604>"(Make this anonymous inner class a lambda(ÈŒèâüÿÿÿÿ8¤æÄŞ·1
+E
+java:S1604F"(Make this anonymous inner class a lambda(ï‘€æ8¤æÄŞ·1
+w
+java:S1450"ZRemove the "falseButton" field and declare it as a local variable in the relevant methods.(Ôœ8ØæÄŞ·1
+{
+java:S1450"YRemove the "nextButton" field and declare it as a local variable in the relevant methods.(º€ü‰ùÿÿÿÿ8ØæÄŞ·1
+}
+java:S1450"[Remove the "promptButton" field and declare it as a local variable in the relevant methods.(Â€ªƒÿÿÿÿÿ8ØæÄŞ·1
+{
+java:S1450"YRemove the "trueButton" field and declare it as a local variable in the relevant methods.(Ãş×Äüÿÿÿÿ8ØæÄŞ·1
+[
+java:S1874L">Remove this use of "startActivityForResult"; it is deprecated.(îü‰”8îæÄŞ·1
+g
+java:S1874”"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾8öæÄŞ·1

@@ -1,0 +1,21 @@
+Podpunkt 6
+• Po pierwszym uruchomieniu aplikacji
+	onCreate->onStart->onResume
+• Po wciśnięciu przycisku Cofnij
+	onPause->onStop
+• Po ponownym uruchomieniu aplikacji
+	onStart->onResume
+• Po wciśnięciu przycisku ekranu głównego Home
+	onPause->onStop
+• Po powrocie do aplikacji z listy ostatnio używanych aplikacji
+	onStart->onResume
+
+
+Podpunkt 10
+• Po obróceniu ekranu
+	onStart->onResume->onPause->onStop->onDeestroy->onCreate->onStart->onResume
+   Pytanie zostaly zrestartowane i wyswietlone od początku
+
+Podpunkt 13
+• Pytani zostalo zapisane i przy ponownym wywolaniu onCreate wczytanee
+
